@@ -15,7 +15,7 @@ The objective behind this repository is to exhibit every project that I made so 
 
 The projects are listed below, ordered by creation date and followed by a little description. Those with a marked checkbox have already been finished.
 
-Some of the repositories are in Brazilian Portuguese, these have Brazil's flag by their side.
+Some of the repositories are in Brazilian Portuguese, these have Brazil's flag by their side. Some other repositories are private, because most of the project is still to be done, these are sinalized with 🛠️.
 
 ## First month
 * 17/12/2024: <a href="https://github.com/realBruno/conversor-unidades-embarcatech">Unit Converter</a> 🇧🇷
@@ -24,5 +24,5 @@ Some of the repositories are in Brazilian Portuguese, these have Brazil's flag b
 * [x] 20/12/2024: <a href="https://github.com/realBruno/password-generator">Password Generator</a>
     * Generates a user-defined length password with every printable character of the _ASCII_ table and saves it into a text file.
 
-* 21/12/2024: <a href="https://github.com/realBruno/pw-killer">pw-killer</a>
+* 21/12/2024: <a href="https://github.com/realBruno/pw-killer">pw-killer</a> 🛠️
     * Brute forces password-protected PDF and Zip files.
