@@ -13,16 +13,16 @@ The objective behind this repository is to exhibit every project that I made so 
 
 # Projects
 
-The projects are listed below, ordered by creation date and followed by a little description. Those with a marked checkbox have already been finished.
+The projects are listed below, ordered by start date and followed by a little description. Those with a marked checkbox have already been finished.
 
 Some of the repositories are in Brazilian Portuguese, these have Brazil's flag by their side. Some other repositories are private, because most of the project is still to be done, these are sinalized with 🛠️.
 
-## First month
-* 17/12/2024: <a href="https://github.com/realBruno/conversor-unidades-embarcatech">Unit Converter</a> 🇧🇷
+## Days 0 to 60
+<b>Day 37 (17/12/2024)</b> <a href="https://github.com/realBruno/conversor-unidades-embarcatech">Unit Converter</a> 🇧🇷
     * Project from the residency program "EmbarcaTech". The project was group-oriented, but after doing my part on the group, I took some time out to do everything by myself for personal improvement. It converts multiple units, such as—but not limiting to—temperature, mass, and volume.
 
-* [x] 20/12/2024: <a href="https://github.com/realBruno/password-generator">Password Generator</a>
+<b> * [x] Day 40 (20/12/2024)</b>: <a href="https://github.com/realBruno/password-generator">Password Generator</a>
     * Generates a user-defined length password with every printable character of the _ASCII_ table and saves it into a text file.
 
-* 21/12/2024: <a href="https://github.com/realBruno/pw-killer">pw-killer</a> 🛠️
+Day 41: <a href="https://github.com/realBruno/pw-killer">pw-killer</a> 🛠️
     * Brute forces password-protected PDF and Zip files.
