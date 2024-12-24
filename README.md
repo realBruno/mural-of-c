@@ -15,7 +15,9 @@ The objective behind this repository is to exhibit every project that I made so 
 
 The projects are listed below, ordered by start date and followed by a little description. Those with a marked checkbox have already been finished.
 
-Some of the repositories are in Brazilian Portuguese, these have Brazil's flag by their side. If you find this emoji 🛠️ somewhere, it means that the repository it refers to is temporarily private, because most of the project is still to be done.
+Some of the repositories are in Brazilian Portuguese, these have Brazil's flag by their side.
+
+If you find this emoji 🛠️ somewhere, it means that the repository it refers to is temporarily private, because most of the project is still to be done.
 
 ## Days 0 to 60
 * <b>Day 37 (17/12/2024):</b> <a href="https://github.com/realBruno/conversor-unidades-embarcatech">Unit Converter</a> 🇧🇷
