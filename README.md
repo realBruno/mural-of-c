@@ -19,7 +19,7 @@ Some of the repositories are in Brazilian Portuguese, these have Brazil's flag b
 
 If you find this emoji 🛠️ somewhere, it means that the repository it refers to is temporarily private, because most of the project is still to be done.
 
-## Days 0 to 60
+## Days 0 to 59
 * <b>Day 37 (17/12/2024):</b> <a href="https://github.com/realBruno/conversor-unidades-embarcatech">Unit Converter</a> 🇧🇷
     * Project from the residency program "EmbarcaTech". The project was group-oriented, but after doing my part on the group, I took some time out to do everything by myself for personal improvement. It converts multiple units, such as—but not limiting to—temperature, mass, and volume.
 
@@ -28,3 +28,6 @@ If you find this emoji 🛠️ somewhere, it means that the repository it refers
 
 * <b>Day 41 (21/12/2024):</b> <a href="https://github.com/realBruno/pw-killer">pw-killer</a>
     * Brute forces password-protected PDF and Zip files.
+## Days 60 to 120
+* <b>Day 69 (17/12/2024):</b> <a href="https://github.com/realBruno/cli-programs">cli-programs</a>
+    *  Replicas of a few UNIX command-line programs, such as cat, touch, grep, etc. 
