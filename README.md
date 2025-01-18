@@ -28,6 +28,7 @@ If you find this emoji 🛠️ somewhere, it means that the repository it refers
 
 * <b>Day 41 (21/12/2024):</b> <a href="https://github.com/realBruno/pw-killer">pw-killer</a>
     * Brute forces password-protected PDF and Zip files.
+    
 ## Days 60 to 120
 * <b>Day 69 (17/12/2024):</b> <a href="https://github.com/realBruno/cli-programs">cli-programs</a>
     *  Replicas of a few UNIX command-line programs, such as cat, touch, grep, etc. 
