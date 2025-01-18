@@ -24,11 +24,14 @@ If you find this emoji 🛠️ somewhere, it means that the repository it refers
     * Project from the residency program "EmbarcaTech". The project was group-oriented, but after doing my part on the group, I took some time out to do everything by myself for personal improvement. It converts multiple units, such as—but not limiting to—temperature, mass, and volume.
 
 * [x] <b>Day 40 (20/12/2024):</b> <a href="https://github.com/realBruno/password-generator">Password Generator</a>
+
     * Generates a user-defined length password with every printable character of the _ASCII_ table and saves it into a text file.
 
 * <b>Day 41 (21/12/2024):</b> <a href="https://github.com/realBruno/pw-killer">pw-killer</a>
+
     * Brute forces password-protected PDF and Zip files.
-    
+
 ## Days 60 to 120
 * <b>Day 69 (17/12/2024):</b> <a href="https://github.com/realBruno/cli-programs">cli-programs</a>
-    *  Replicas of a few UNIX command-line programs, such as cat, touch, grep, etc. 
+
+    * Replicas of a few UNIX command-line programs, such as cat, touch, grep, etc. 
