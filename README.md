@@ -31,7 +31,7 @@ If you find this emoji 🛠️ somewhere, it means that the repository it refers
 
     * Brute forces password-protected PDF and Zip files.
 
-## Days 60 to 120
+## Days 60 to 119
 * <b>Day 69 (17/12/2024):</b> <a href="https://github.com/realBruno/cli-programs">cli-programs</a>
 
     * Replicas of a few UNIX command-line programs such as cat, touch, grep, etc. 
